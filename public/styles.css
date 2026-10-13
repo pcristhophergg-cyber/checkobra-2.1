@@ -11,3 +11,8 @@
 
 /* Biblioteca */
 .knowledge-pre{white-space:pre-wrap;line-height:1.55}details{margin-top:9px}summary{cursor:pointer;color:#1956a0;font-weight:650} .nav button{font-size:13px}
+
+.ghost-entry{margin-top:18px;padding:18px;border:1px solid #a7cce6;border-radius:14px;background:#eff8ff}.ghost-entry p{margin:8px 0 14px}.ghost-btn{display:inline-block;background:#075786;color:white!important;padding:12px 17px;border-radius:10px;text-decoration:none;font-weight:700}
+
+/* Activador discreto: triple clic/toque sobre logo Aitue */
+.brand-logo-trigger{border:0;background:transparent;padding:0;margin:0;cursor:pointer;display:inline-flex;align-items:center;border-radius:6px;touch-action:manipulation;flex-shrink:0}.brand-logo-trigger img{pointer-events:none}.brand-logo-trigger:focus-visible{outline:2px solid #a5d8ff;outline-offset:3px}
