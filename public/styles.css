@@ -8,3 +8,6 @@
 .legend-obs{display:inline-block;width:12px;height:12px;background:#f4c542;border-radius:3px;margin-right:4px}.advance-unit.obs{background:#fff2bc;border-color:#e5b530;color:#614a00}
 
 .release-tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}.release-tabs button.active{background:#1956a0;color:white}.release-units{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}.release-unit{font-weight:700;background:#edf3f9}.release-unit.picked{background:#b8ebc9;border-color:#15803d;color:#12532a}
+
+/* Biblioteca */
+.knowledge-pre{white-space:pre-wrap;line-height:1.55}details{margin-top:9px}summary{cursor:pointer;color:#1956a0;font-weight:650} .nav button{font-size:13px}
